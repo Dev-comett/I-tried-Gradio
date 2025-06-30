@@ -1,0 +1,16 @@
+# Ignore Python env / dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.h5
+*.egg-info/
+dist/
+build/
+.env/
+venv/
+gradio/Lib/
+gradio/Scripts/
+gradio/include/
+gradio/Share/
