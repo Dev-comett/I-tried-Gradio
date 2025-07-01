@@ -15,7 +15,7 @@ It predicts house prices based on user inputs like area, bedrooms, bathrooms, et
 ## ⚙️ How to Run
 
 1️⃣ Clone the repository  
-```bash
+
 git clone https://github.com/Dev-comett/I-tried-Gradio.git
 cd I-tried-Gradio
 2️⃣ Install dependencies
