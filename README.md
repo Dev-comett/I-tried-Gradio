@@ -8,7 +8,7 @@ It predicts house prices based on user inputs like area, bedrooms, bathrooms, et
 
 ## 📌 Features
 
-✅ Built with **Gradio** — no frontend code required  
+✅ Built with **Gradio**  no frontend code required  
 ✅ Lightweight and easy to run locally  
 ✅ Example of ML model deployment with Gradio  
 
@@ -45,4 +45,5 @@ Gradio
 
 📌 Note
 This project was built for learning purposes to explore Gradio as a tool for quick ML app deployment.
+will build more web apps using Gradio
 
